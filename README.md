@@ -8,7 +8,7 @@ The Following is a Feature High Level Description
 
 **AIM**: The overall goal of this feature is to introduce purchasable League badges using in-game credits, enabling players to acquire unique merchandise.
 
-**Description: This Epic Describes the high-level objective of the feature to to introduce purchasable League badges using in-game credits, enabling players to acquire unique merchandise.
+**Description: This Epic Describes the high-level objective of the feature to to introduce purchasable League badges using in-game credits, enabling players to acquire unique merchandise.**
 
 In order to proceed with this feature "Implement Zelda BOTW League Badges and In-Game Merchandise with Credits System in GitHub", 
 we broke down the high level feature description into multiple actionable tasks
