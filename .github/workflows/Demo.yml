@@ -1,0 +1,18 @@
+# This is a sample file to test the github actions for the yaml file
+name: CI
+#this for the push and pull request
+on:
+  push:
+    branches:
+      - feature_epic5
+      
+# This is the job to run the unit test for the yml file
+jobs:
+  build:
+  runs-on: ubuntu-latest # This is the runner for the github actions
+ 
+  steps:
+  - uses: actions/checkout@v3
+ 
+  - name: Runnig unit test for yml file
+    run: echo "unit test for yml file"
